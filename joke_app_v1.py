@@ -4,8 +4,8 @@ import requests
 from flask import Flask, jsonify, request
 from datetime import datetime
 
-API_TOKEN = "olesia_hehe" 
-RSA_KEY = "FVDMEW5EU3YFFBPM6CRWTQPEB"
+API_TOKEN = "" 
+RSA_KEY = ""
 
 app = Flask(__name__)
 
